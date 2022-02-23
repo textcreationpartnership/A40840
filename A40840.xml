@@ -1,0 +1,507 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Famous and renowned history of the two unfortunate, though noble lovers, Hero and Leander giving an account of all that happened from the beginning of their loves, till both of them ended their lives in the sea for love of each other : their various adventures and the renowned atchivements [sic] of Leander in his many glorious victorys &amp; successes till he was forbid access to the fair Hero by her cruel father upon his killing his rival in a combat : also how (she being imprisoned in a tower) he swam over the sea to visit her &amp; in a boistrous storm was drownded, for the sorrow of which, she leaped into the waves &amp; drownded herself.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40840</idno>
+            <idno type="STC">Wing F361A</idno>
+            <idno type="STC">ESTC R2009</idno>
+            <idno type="EEBO-CITATION">12265356</idno>
+            <idno type="OCLC">ocm 12265356</idno>
+            <idno type="VID">58040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58040)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 184:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Famous and renowned history of the two unfortunate, though noble lovers, Hero and Leander giving an account of all that happened from the beginning of their loves, till both of them ended their lives in the sea for love of each other : their various adventures and the renowned atchivements [sic] of Leander in his many glorious victorys &amp; successes till he was forbid access to the fair Hero by her cruel father upon his killing his rival in a combat : also how (she being imprisoned in a tower) he swam over the sea to visit her &amp; in a boistrous storm was drownded, for the sorrow of which, she leaped into the waves &amp; drownded herself.</title>
+                  <author>J. S.</author>
+               </titleStmt>
+               <extent>24 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Milbourn for J. Blare ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>"To the reader" signed: J.S.</note>
+                  <note>Place and date of publication from NUC pre-1956.</note>
+                  <note>Advertisement on p. 24.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58040:1"/>
+            <pb facs="tcp:58040:1"/>
+            <p>The Famous and Renowned HISTORY Of the Two Unfortunate, though Noble LOVERS, <hi>Hero and Leander:</hi>
+            </p>
+            <p>Giving an Account of all that happened from the beginning of their Loves, till both of them Ended their Lives in the <hi>Sea,</hi> for <hi>Love</hi> of each other.</p>
+            <p>Their Various Adventures, and the Renowned Atchivements of <hi>Leander,</hi> in his many Glorious Victorys &amp; Succeſſes, till he was forbid Acceſs to the Fair <hi>Hero,</hi> by her Cruel Father, upon his killing his Rival in a Combat. Alſo how (ſhe being Impriſoned in a Tower) he Swam over the Sea to Viſit her, &amp; in a boiſtrous Storm was <hi>drownded,</hi> for the <hi>ſorrow</hi> of <hi>which,</hi> ſhe leaped into the <hi>waves</hi> &amp; <hi>drownded</hi> herſelf.</p>
+            <figure>
+               <figDesc>depiction of Hero and Leander in a garden.</figDesc>
+            </figure>
+            <p>Printed by <hi>A. Milbourn.</hi> for <hi>J. Blare.</hi> at the <hi>Looking-Glaſs</hi> on <hi>London-Bridge.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:58040:2"/>
+            <head>To the READER.</head>
+            <p>THe Famous Story of the Loves, and <g ref="char:V">Ʋ</g>nfortunate Deaths of <hi>Hero</hi> and <hi>Leander,</hi> has been ſo much the Subject of Poetry, and other Learned Authors, that I think there are but few People that have not heard little or more of it: Though indeed, the particulars of the begin<g ref="char:EOLhyphen"/>ning and end of their loves, has, to many, been left in the dark, as being written in <hi>Foreign Languages,</hi> who have celebrated their Memo<g ref="char:EOLhyphen"/>ries as the moſt <hi>Conſtant Lovers,</hi> that ever were. Wherefore, that our <hi>Engliſh</hi> Nation may not be left in Ignorance, I have though late, drawn it into a ſmall compaſs, though very much to the purpoſe, containing much variety and delight, ſo that it may be accounted the perfection of Hiſtory, dreſſed in a Method, that cannot but pleaſe, wherein the Paſ<g ref="char:EOLhyphen"/>ſions of Lovers are expreſſed to the heighth, and the various dangers they meet withal, and ſtrugle with, and although Virtuous Love be ſome<g ref="char:EOLhyphen"/>times <g ref="char:V">Ʋ</g>nfortunate, it never miſſes of praiſe, and due commiſeration, and moves a generous compaſſion in the hearts. Wherefore, not doubting but it will do ſo in thoſe that ſhall, as well as thoſe that have heard of it; <hi>I</hi> commend it to your peruſal, as the choiſeſt of Hiſtorys, and remain</p>
+            <closer>
+               <signed>Your very Humble Servant, to Command, <hi>J. S.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:58040:2"/>
+            <head>The Famous and Renowned Hiſtory Of the Two Unfortunate, though Noble Lovers Hero and Leander, &amp;c.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> How <hi>Leander,</hi> returning in Triumph from his Eaſtern Victories, fell in Love with the Beautious <hi>Hero,</hi> and ſhe in Love with him; and of the ſtrange Viſion of the Goddeſs <hi>Venus</hi> appearing to <hi>Horo,</hi> and what ſhe repreſented, <hi>&amp;c.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hen <hi>Greece</hi> flouriſhed in Riches and Renown, becoming, by Vertue, and Valorous Atchivements, the Glory of the whole World, hav<g ref="char:EOLhyphen"/>ing ſubdued to it ſelf, not only the <hi>Perſian</hi> Empire, but almoſt all <hi>India,</hi> &amp; indeed the moſt part of <hi>Aſia;</hi> Then it was that the Famed <hi>Leander,</hi> after many Warlike Exploits, and bringing into Subjec<g ref="char:EOLhyphen"/>tion divers Countries, as General of the <hi>Grecian</hi> Forces, coming back with his Victorious Army, Adorned with <hi>Lawrels,</hi> and Triumphs, had his Praiſes ſung every where. Whilſt the Crowding Spectators flowed from all parts to behold him as he paſſed in his Triumphant Chariot. And amongſt the reſt of the <hi>Aſian</hi> Beauties, the faireſt of her Sex, and even the very Mirror of Beauty, <hi>Hero,</hi> Daughter to a Prince who had a ſtately Caſtle called <hi>Sestus,</hi> ſcituate upon the banks of the <hi>Heleſpont,</hi> or narrow Sea, of about two miles over, that parts <hi>Europe</hi> from <hi>Aſia,</hi> ſhe that day was adorned in the Richeſt Attire that Gold or Siks, or Jewels could ſet out to the higheſt <hi>Illuſtration,</hi> gliſtering like the morn<g ref="char:EOLhyphen"/>ing Star, or a Goddeſs in a Radiant Cloud, ſhe was in a Chariot drawn by four white Horſes in Silver Trapings, and ſhaddowing Plumes of Feathers of various colours, attended by a train of Servants, dreſſed in the Richeſt Garments that could be found, and with her, as her Companions, were divers <hi>Beautiful</hi> Virgins, ſo that ſhe appeared like <hi>Diana,</hi> ſurrounded with her Nimphs, yet out ſhining them as far as the Sun does the glimering Stars. This Object ſoon made <hi>Leander</hi> fix his eyes upon it with Admiration, and though he had divoted himſelf to the <hi>God of War,</hi> and gave Nations Laws, yet now the <hi>God of Love</hi> put in to gain a Victory over him, who had been eſteemed unconquerable, the Queen of Love ſeemed to guide his thoughts, and take up all his cogitations, he wiſhed he might lay his Lawrels and Trophies at this fair <hi>Ladys</hi> feet, and found an inward fire kindled, that made him love this fair Stranger, before he knew what ſhe was, or what Qua<g ref="char:EOLhyphen"/>lity, yet could gueſs by all that appeared, ſhe was no leſs than Noble, when his Triumphant Chariot had paſſed her, he could not but turn his Eyes back to behold her, and, like the <hi>Love-ſick</hi> Son to his fair and beloved Lencothe, was loath to go
+<pb n="4" facs="tcp:58040:3"/>out of her ſight, he thought once or twice to order his Attendants to enquire who ſhe was, but then other thoughts countermanded them, when he conſidered that His Fame and Glory would be Eclipſed, if, juſt returning from the Wars of <hi>Mars,</hi> he ſhould be ſuſpected to Encline to the ſoft Tents of <hi>Venus,</hi> ſo that without any inquiry, coming to the <hi>Sea-ſhore,</hi> he Embarqued his Victorious Army on the ſhips that lay ready to Tranſport him into <hi>Greece,</hi> and immediately, the ſails being fill'd wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h a proſperous Gale, whilſt <hi>Neptune</hi> and his Trytons danced before him, he reached the Joyful Short, filled with People from all parts, who came to wel<g ref="char:EOLhyphen"/>come him with Muſick and Songs, loudly with ſhouts of Joy, proclaming his wel<g ref="char:EOLhyphen"/>come, and thronged after him to his Caſtle, or Pallace of <hi>Abidos,</hi> where his Fa<g ref="char:EOLhyphen"/>ther and Mother with open Arms received him, and all the States of <hi>Greece</hi> came to congratulate his Succeſs, proclaming aloud his Victorys, and held ten days feſti<g ref="char:EOLhyphen"/>val in their Capital Citys, in honour of his many brave Exploits and Atchivements over ſo many ſeveral Nations.</p>
+               <p>
+                  <hi>Leander,</hi> during the General Rejoycing, was thoughtful in diſpoſing his Army, and ſetling his Affairs, which being done, he thought to betake himſelf to repoſe after the tedious toils of War, but the beautious <hi>Hero,</hi> whoſe Idea or Form, con<g ref="char:EOLhyphen"/>tinually ſeemed to be in his ſight, oppoſed it, he thought ſhe was always in his ſight, for ſleeping or waking, his fancy and his dreams repreſented her unto him all Lovely and Charming, ſo that he could no longer ſtifle his Flame, but he ſignally ſhewed by the Alteration of his Countenance, that ſomething inwardly diſturbed him; his Parents and Friends wondered at ſo ſudden a change, and not knowing the cauſe, urg'd him to diſcover it, but he being very prudent, put them off with fictions.</p>
+               <figure>
+                  <figDesc>depiction of Cupid taking aim with his bow and arrow at Hero, standing over a coffin.</figDesc>
+               </figure>
+               <p>Having thus ſaid, <hi>Leander</hi> ſeem'd to embrace her, and ſhe him, very tenderly with Ardent Affection, when a great Sea of Water ſeemed to flow into the place on a ſudden and parted them, at which ſhe ſtarting between ſleep and wake, cry<g ref="char:EOLhyphen"/>ed as in a fright: <hi>O my</hi> Leander, <hi>my love, how or where have I loſt you;</hi> and ſo awoke with Roſie Bluſhes on her Cheeks, and tears in her eyes, and being told of this by <hi>Amphilia,</hi> ſhe could no longer deny her love, whereupon ſhe promiſed her her beſt Aſſiſtance, which ſhe faithfully performed, as will hereafter appear.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="6" facs="tcp:58040:4"/>
+               <head>
+                  <hi>CHAP. II.</hi> How <hi>Leander</hi> paſſed the Sea to proſecute his Love with <hi>Hero,</hi> and by what means he delivered her and her Father from death, and ſlew a great number of their Enemies that had beſet them in a Wood, and acted many other ſtrange wonders.</head>
+               <p>LOve having gained thus a double Conqueſt, and both the Lovers ignorant of each others paſſion, <hi>Leander</hi> grew impatient caſting many ways in his mind, how he might come to the ſpeech, or at leaſt the ſight of his fair <hi>Hero,</hi> whoſe i<g ref="char:EOLhyphen"/>mage had made ſo deep an impreſſion in his heart, &amp; after ſome wavering of mind reſolved to paſs over into <hi>Aſia,</hi> as a private Perſon to wait there a while for a fa<g ref="char:EOLhyphen"/>vourable opportunity of ſeeing his beloved Miſtreſs; he could ſee her Caſtle from the Shoar of <hi>Europe,</hi> to which he had often walked for that purpoſe, and would often cry out: <hi>O happy Walls, who contain ſo Ineſtimable a Beauty, even the Glory of her Sex, and matchleſs perfections of Women kind,</hi> wiſhing himſelf the happineſs, the ſence<g ref="char:EOLhyphen"/>leſs Marble unthinkingly contained by circling her in its circumference, and ſe<g ref="char:EOLhyphen"/>curing her when ſhe took her ſoft ſlumbers and Repoſe, but long he debated not before he put his reſolves in practice, and going to a private Harbor between two Rocks ſomewhat diſtant from <hi>Abidas,</hi> without the knowledge of his Relations, and finding a ſmall Bark there, he agreed with the Maſter to Tranſport him to the further ſhore, which he did with a favourable <hi>gale,</hi> and Landed him by the ſide of a Forreſt, ſome diſtance from <hi>Seſtus,</hi> the Caſtle of his beloved <hi>Hero,</hi> where having diſmiſſed the <hi>Maſter</hi> of the Bark with a Reward ſutable to his <hi>Labour,</hi> he ſat him down under a ſpreading ſhade, to conſider the beſt methods to be taken without giving offence.</p>
+               <p>Long he had not ſtayed there, e're, at a great diſtance, he heard the cry of Hounds, and the ſhout of Huntſmen, which by degrees drew nearer, yet his thoughts wholly taken up with love, was little affected with <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and therefore to avoid it he was turning another way to ſome little houſes, that ſtood at the bottom of a Hill in a Valley, when after ſome ſilence; he heard grievous out-crys, as of People in diſtreſs, and immediately a man all bloody and wounded, came running out of the Forreſt, whereupon mounting his horſe he had brought with him, he came up to this miſerable Perſon, and demanded who had ſo miſuſed him, to whom with a faint voice, he reply'd, <hi>Certain Pyrates, lying in Ambuſh in the Forreſt, had ſet upon Prince</hi> Armelius <hi>and his Train, and had killed many of them, yet thoſe, that re<g ref="char:EOLhyphen"/>mained, valiantly defended their Prince: Therefore, for God's ſake, Sir,</hi> ſaid he to <hi>Leander, if you are generous, haſten to his aſſiſtance e're it is to late.</hi>
+               </p>
+               <figure>
+                  <figDesc>depiction of Leander arriving on horseback to bring aid to Prince Armelius and his retinue fighting pirates.</figDesc>
+               </figure>
+               <p>By this time <hi>Armelius</hi> and his company were come up to lend what aſſiſtance they could, and ſeeing fair <hi>Hero</hi> Reſcued, they would have fallen at the feet of their Deliverer, but he Generouſly with-held them from doing, alledging that he had done nothing but what all Good and Juſt men, ought to hazard in ſuch Caſes to re<g ref="char:EOLhyphen"/>ſcue the oppreſſed, and puniſh the oppreſſor, by this time the Alarm being taken, a great Crowd of People came flocking from the Nighbouring Parts, with ſuch wea<g ref="char:EOLhyphen"/>pons as came firſt to their hands, and hearing what wonders this Stranger had done, and that it was to his Valour alone they owed the ſafety of their Prince, and his fair Daughter, they ſaluted him with ſhouts of Joy, but his thoughts were ſo taken up with his love, that he little regarded their applauſes, for his mind was mortally perplexed for <hi>Hero,</hi> who, by the fright, and ſeeing ſo much blood ſhed, was fallen into a ſwound, but reviving at length, ſhe was put into a Chariot, that ſtood by the Forreſt ſide, and conveyed to the Caſtle of <hi>Seſtus. Leander</hi> being in his Encounter unknown to her, by reaſon his Face was all over covered with the blood of his Enemies: <hi>Armelius,</hi> and all with him, entreated him to go with them to the Caſtle, to which he ſeemingly conſented, but it growing dark, he took an opportunity, in the Crowd to withdraw himſelf till he might better conſider to manage his love affairs, and ſo went that night to a Neighbouring Village, where he refreſhed himſelf, and preſenting the Maſter of the houſe with ſome <hi>Jewels,</hi> de<g ref="char:EOLhyphen"/>ſired him not to let any one know he was there, if enquiry was made, which he promiſed and performed.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> How <hi>Leander</hi> Juſted before the Princes, and won a Rich Diadem, which he preſented to <hi>Hero</hi> with a Letter in it, manifeſting his love, and overthrew a great number of men that lay in Ambuſh to take his life, <hi>&amp;c.</hi>
+               </head>
+               <p>
+                  <hi>HEro,</hi> being pretty well come to her ſelf, made a ſtrict enquiry after her Deli<g ref="char:EOLhyphen"/>verer, and when ſhe was told he had ſecretly withdrawn himſelf, her Eyes could not refrain from T<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ars, that ſhe had not a convenient opportunity to thank him for her deliverance ye<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more ſhe could not but wonder who this gallant ſtrang<g ref="char:EOLhyphen"/>er ſhould be, &amp; ſent to divers places to enquire after him, ſometimes ſhe thought it could be none but the Famed <hi>Leander,</hi> but thoſe thoughts again were daſhed with the conſiderations he was paſſed over to <hi>Europe,</hi> and taken up there with the wel<g ref="char:EOLhyphen"/>come of his Triumphs, during theſe Cogitations; and ſtill fixing his Idaea in her mind, great ſhews of joy were uſed in the Caſtle for the happy deliverance; and at the end of them a ſolemn Tilt and Turnament was ordered, wherein he that
+<pb n="9" facs="tcp:58040:5"/>did beſt, were to have a Golden Carronet ſet with Diamonds and other Precious jewels, which Glorious Sport of Martial Proweſs was proclaimed by the Heraulds, and it ſoon reached <hi>Leanders</hi> ear, and whereupon, not to be behind-hand, left his lodging and Rid to <hi>Peteropolis,</hi> a famous City near at hand, and there bought him a change of Armor, having in his Shield a flaming heart, on which the Sun darted ſome Rays upon, through Clouds, with this inſcription, <hi>She, for whom I ſuf<g ref="char:EOLhyphen"/>fer, is ignorant of my love.</hi>
+               </p>
+               <figure>
+                  <figDesc>depiction of Leander and Altamansor, Prince of Persepolis, jousting in the lists.</figDesc>
+               </figure>
+               <p>This ſpeech ſatisfied the Prince, in that he ever held that a man of Honour is e<g ref="char:EOLhyphen"/>ver tyed to his word, but the Prince of <hi>Perſopolis,</hi> inwardly grieving that this Stran<g ref="char:EOLhyphen"/>ger ſhould carry away the prize, and Glory of the day, and being alſo jealous by the Act on he beheld, that he might prove a Rival in his Love, he being paſſion<g ref="char:EOLhyphen"/>ately Enamoured of the fair <hi>Hero,</hi> and had ſought many occaſions to make his love known to her, which ſhe minded not, or, rather not Regarded, he being the prou<g ref="char:EOLhyphen"/>deſt and moſt ambitious of all men, it turned him to Mortal hatred to <hi>Leander,</hi> and watching his departure, he ſent 12 of his Followers after him to ſet upon him, &amp; when they had murthered him, to bury him privately that it might not be known.</p>
+               <p>Theſe men knowing the ways of the Countrey, croſſing the nearer ways, got be<g ref="char:EOLhyphen"/>fore him, and planted themſelves cloſely in a Wood he was to paſs, out of which Ambuſh they all on a ſudden burſt upon him with their drawn Swords, and gave him a furious Aſſault; but he, who was never uſed to fear, was not at all daunted, recoiling his Horſe a little, to get out of the incloſure, drew his truſty Sword, that had never fail'd him, and flouriſhing it in their Eyes, like a dreadful Commet that threatned death and deſtruction, he ſet upon them with ſuch fury, that he fel<g ref="char:EOLhyphen"/>led them as if a Whirl-wind had thrown down a row of ſtately Cedars from ſome Mountains top, ſo that hewing off Arms and legs, and ſometimes Heads, in ſpite of their attempting to fly, he ſent Eleven of them to keep company with the Dead, while he that remained, though much wounded, fell on his Knees and begged his life which he generouſly gave him, upon his ſubmiſſion and Confeſſion, at which, <hi>Leander</hi> could not but wonder how any Noble Man could be guilty of ſuch baſeneſs, and then commanding him to riſe, <hi>Go, wretched Man,</hi> ſaid he, <hi>and tell thy Maſter
+<pb n="11" facs="tcp:58040:6"/>that Treachery never proſpers, and I wear a Sword that may one day let him ſee the dif<g ref="char:EOLhyphen"/>ference between true Manhood, and ſuch Inglorious Acts as theſe.</hi>
+               </p>
+               <p>The trembling man, glad his life was given him, having by, <hi>Leander</hi>'s order, dragged his ſlain Companions into the wood, with much thankfulneſs took his leave and relating the fatal miſcarriage, and what <hi>Leander</hi> had given him in charge, put the Prince of <hi>Perſopolis</hi> into an extraordinary rage, ſo that he ſtormed &amp; curſed the skies, &amp; his own misfortunes, in which fret we will leave him, and return to <hi>Hero.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> How when the fair <hi>Hero</hi> read <hi>Leanders</hi> letter, ſhe was tranſported with Joy, and ſent <hi>Amariſſa</hi> her Nurſe, in ſearch of him, with a letter ſhe wrote to him. How he killed a cruel Beaſt, and ſaved the Woman that came in ſearch of him, and his Amorous diſ<g ref="char:EOLhyphen"/>courſe of Hero, <hi>&amp;c.</hi>
+               </head>
+               <p>YOu have heard how <hi>Hero</hi> had received the preſent of <hi>Leander,</hi> which ſhe curi<g ref="char:EOLhyphen"/>ouſly ſurveying, perceived in the Curious Needlework, that adorned the Cap of it, a little role of paper thruſt in; which ſhe eagerly, but not without bluſhing, took out, and read in theſe words:</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>Faireſt of Creatures,</salute>
+                     </opener>
+                     <p>
+                        <hi>Is it not without cauſe, that all, who caſt their Eyes on you, be<g ref="char:EOLhyphen"/>come Lovers and Admires of your Noble Perfections. Pardon we them, if, among the reſt, I have preſumed to gaze on ſo bright an Object, which has not only dazled my eyes, but penetrated my heart, and enflamed it with a deſire to ſerve you, my life and fortunes, Ma<g ref="char:EOLhyphen"/>dam, I humbly lay at your feet, and, by my Obedience, if permitted by you, and to be ranked among the number of your Adorers, hope to gain ſome little ſpark of your condeſcending goodneſs to pitty me, and give me at leaſt your good Eſteem, when you come to know who your Faithful and Conſtant Servant is, who now can no longer call himſelf his own, but muſt beg leave to ſubſcribe himſelf your entirely devoted</hi>
+                     </p>
+                     <closer>
+                        <signed>Leander.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>The <hi>Princeſs</hi> reading this <hi>Letter,</hi> pauſed, and bluſhed, but, when coming lower, and having caſt her eyes upon the Name of <hi>Leander,</hi> Oh! Heavens, how was ſhe tranſported, her eyes ſparkled with Joy, and ſhe cryed out as in an extaſie: <hi>Oh<g ref="char:punc">▪</g> you Powers above, how do you overload me with happineſs, was it then the brave</hi> Leander <hi>that I beheld with ſuch wonder, who made me this preſent, and was no doubt my deliverer, for who but ſo Noble a Prince could be capable of ſuch Glorious Actions.</hi>
+               </p>
+               <p>As ſhe was thus tranſported, <hi>Amoriſſa</hi> came in, and finding her in ſuch a diſ<gap reason="illegible" resp="#OXF" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>, could not but be very inquiſitive into the Cauſe, and ſeeing her hold a paper ſtill in her hand, to which the name of <hi>Leander</hi> was affixed, ſhe ſoon underſtood the meaning, and joyned in the joy with her young miſtreſs, who embracing her in her Armes, cryed out, <hi>O</hi> Amariſſa <hi>now the gracious conſtellations of light ſhower happ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>fluances on my Fortune, the brave</hi> Leander, <hi>on whom my heart is ſo entirely fixed, <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> me for love, as by the Tennor of this letter appears.</hi> Amoriſſa was over joyed that the
+<pb n="12" facs="tcp:58040:7"/>troubleſome part ſhe was to undertake in going to <hi>Leander</hi> on her miſtreſſes behalf, and finding a way out to make that love known, which ſhe ſaw ſo viſibly torment her, and would no doubt have brought her to her Grave, was now ſo generouſly prevented, yet being of a prompt wit, ſhe began to doubt whether this might be the true <hi>Leander,</hi> or ſome that might uſe ſo gallant a name, on truſt to introduce his affection, <hi>For had it been he,</hi> ſaid ſhe to <hi>Hero,</hi> who changed colour and looked pale at this ſuſpicion, <hi>why did he ſo ſuddainly withdraw himſelf, he need not have feared acceptance in your Fathers Court, his glory and renown would have made all proud of the honour of his Company: Yet, again,</hi> ſaid ſhe, recollecting her ſelf, <hi>it may be he, ſince as</hi> I <hi>remember, when he paſſed by in his triumphant Chariot, he looked languiſhing when he fixed them on your face, and ſeemed to ſay, that love from your fair eyes, had ſent his Darts to conquer him, who had ſubdued whole Nations.</hi>
+               </p>
+               <p>Between theſe hopes and fears, <hi>Hero</hi> knew not what to ſay or think, however it was agreed between them, that <hi>Amoriſſa,</hi> ſhould go in ſearch of the Renowned <hi>Hero,</hi> and know if it was the true <hi>Leander</hi> or not, before any other Preſents or Tenders of Love ſhould be received from him, for to him, alone ſhe had vowed her Virginity, with all her love and Chaſt Affections, and if ſhe found it to be him, to deliver an anſwer to his letter, which ſhe wrote in theſe words.</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>Sir,</salute>
+                     </opener>
+                     <p>
+                        <hi>Though you are a Stranger, with whom I never had any Converſation, yet the Fame of</hi> Leander<hi>'s Virtues and Renowned Deeds, which have taken up the Diſcourſe of the world, cannot, you may well imagine, but have reached the ears of</hi> Hero, <hi>and created in her an eſteem, worthy of ſo deſerving a perſon; but how you could conceive ſo great a paſſion as you expreſſed in your letter, upon ſo ſlight a view, I cannot haſtily believe, ſince the greateſt, Queen on Earth, would be proud of</hi> Leander's <hi>Courtſhip, and ſet a Dia<g ref="char:EOLhyphen"/>dem on his head for love, I think if I miſtake not, I owe my life, at leaſt my liberty, or my honour, which is dearer to me than both, to your Valour, and therefore in gratitude re<g ref="char:EOLhyphen"/>turn you my thanks, and cannot but declare, that it is juſt when I am an Enemy to</hi> Lean<g ref="char:EOLhyphen"/>der, <hi>that I be ſo to my ſelf: The reſt I leave to the Bearer, in whom you may entirely repoſe any confidence, and ſo I take leave to ſubſcribe my ſelf,</hi>
+                     </p>
+                     <closer>
+                        <signed>Yours in Friendſhip and good Wiſhes. Hero.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <figure>
+                  <figDesc>depiction of Leander battling a monster outside the city walls, near a well.</figDesc>
+               </figure>
+               <p>
+                  <hi>Leander,</hi> when he heard the name of <hi>Hero,</hi> ſtarted, and a little after recovering himſelf again, took <hi>Amoriſſa</hi> in his arms, and tenderly embracing her, ſaid: <hi>Fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Heavens ſake let me hear that Heavenly ſound again, I think</hi> (continued he) <hi>you name<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Hero. <hi>I did ſo, my Lord,</hi> replyed ſhe, <hi>and hope you are</hi> Leander. <hi>I am ſo,</hi> ſaid he<g ref="char:punc">▪</g> 
+                  <hi>what is the cauſe of your venturing alone this deſolate way. Inſearch of you</hi> ſaid ſhe <hi>Of me,</hi> replyed <hi>Leander,</hi> haſtily, <hi>to what end I pray? You Read that</hi> ſaid ſhe, <hi>and you may be better informed:</hi> Whereupon ſhe gave him the Letter, that <hi>Hero</hi> had writ<g ref="char:punc">▪</g> He no ſooner ſaw her name, but bending one knee to the Earth, he kiſſed the Pa<g ref="char:EOLhyphen"/>pers a hundred times, before his words could get utterance, and then ſaid he: <hi>Ha<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Immortal Powers ſo great a Regard to</hi> Leander, <hi>as to inſpire the Breaſt of the Faif Beautiful, and Virtuous</hi> Hero; <hi>ſpeak, ſpeak, I ſay, for thou art my good Angel, I think thou bringeſt me theſe glad Tidings:</hi> And with that he thruſt a Jewel of great value into her hand, for bringing him the happy news. To which, <hi>Amoriſſa</hi> modeſtly replyed, that if he was really that <hi>Leander</hi> of <hi>Greece,</hi> who paſſed ſome days ſince Triumphant over the <hi>Helleſpont,</hi> ſhe had a Commiſſion (if <hi>Hero</hi> had any power over him, as in his Letter he expreſſed ſhe had, to let him know, that ſhe had no light e<g ref="char:EOLhyphen"/>ſteem of him, and that he might hope to be happy in her love.</p>
+               <p>
+                  <hi>If that may be,</hi> ſaid he, <hi>I am the happyeſt Man on Earth. It was my fear of offend<g ref="char:EOLhyphen"/>ing her with my paſſion, that made me thus twice retire: Firſt when I had reſcued her in the Wood, and now, which cannot but grieve me, becauſe it had almoſt proved fatal to you. But think you,</hi> continu'd he, <hi>I may be ſo over bleſſed to ſee my</hi> Hero <hi>alone, and preſume to tell her of my love, without interruption, or without offending her.</hi>
+               </p>
+               <p>
+                  <hi>Amoriſſa</hi> undertook this, and gave him Encourgement, this his Enterprize ſhould be Crowned with Succeſs, but that he carry on his Love as privately as might be, for that <hi>Altamanſor,</hi> Prince of <hi>Perſopolis,</hi> had declared himſelf a lover of the Princeſs <hi>Hero,</hi> and by reaſon of the Power he had in that Country, and the Aſcendant over the Father of her Miſtreſs, might much obſtruct their Loves, if not make it prove
+<pb n="15" facs="tcp:58040:8"/>of fatal conſequence. To all, this <hi>Leander</hi> conſented, and gave himſelf wholly up <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be conducted by her management, yet concealed from her the deſign <hi>Altaman<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> had upon him by Treachery, though ſhe was inquiſitive, if he knew, how ſo <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch blood came ſpilt in the Road.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ero</hi> and <hi>Leander</hi> meet over-joyed with Love, and knit the Bond that ended with their Lives, and of the mutual Agreement they made, and how <hi>Leander</hi> prepared to go to <hi>Seſtus,</hi> to gain her Fathers conſent.</head>
+               <p>THE Joyful <hi>Leander</hi> now reſolved to go to <hi>Seſtus</hi> with more willingneſs, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an he went to reap Lawrels and Triumphs, took <hi>Amoriſſa</hi> (whoſe <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Monſter had killed) up behind him, and croſſing a nearer way, tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im, Rid through all the By-paths, till they came to a little Country-lodge, a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>out half a Mile from the Palace, where there was a Curious Garden, to which <hi>Hero</hi> uſed, in the cool of the Evening, to Reſort, of this place ſhe hid the Keys, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd here they Entred, and ſhewed him to put his Horſe and Armour in a Vaulted Stable under-ground, that they might not be diſcovered, if any body ſhould come unexpected with the Princeſs, and carried him to a curious ſhady Arbour, ſo in<g ref="char:EOLhyphen"/>tricately winding and turning, and ſhut up with leaves and Trees, that thoſe who remained in the Remoteſt part, could not be without difficulty diſcerned. Here ſhe leſt him, with a promiſe that ſhe would ſo order it, that the fair <hi>Hero</hi> ſhould come thither, without knowing of his being there, leaſt otherwiſe ſhe might think it beyond the Rules of Modeſty, to meet a Man, that was ſo great a Stranger to her, though ſhe loved him never ſo entirely, thus ſhe diſſembled to <hi>Leander,</hi> but going to her Miſtreſs, ſhe told her all that had happened, who could not but bluſh, ſhe had made ſuch promiſe in her name, refuſing for ſome time to go, as Judging it might be interpreted as too much fondneſs, but <hi>Amoriſſa</hi> urging it, as neceſſary in this Juncture, to prevent diſcovery, and laying aſide her Rich Gar<g ref="char:EOLhyphen"/>ments, put on a diſguiſe, and ſo paſſing through the back Garden of the Caſtle of <hi>Seſtus,</hi> through a little Wicket, that was ſhaded by a Tuft of Trees, they got into the Field, and ſo to the little Lodge, where <hi>Leander</hi> waited with Impatiency, the coming of his bright Angel, and employed all his thoughts in meditating in what manner he ſhould Accoſt her; but, whilſt they laſted, he eſpyed <hi>Amoriſſa</hi> coming, and in her Company one, who, by her Garb he knew not what to think of, as imagining it could not be his Adored Princeſs, but, upon a nearer approach,
+<pb n="16" facs="tcp:58040:9"/>her beauty, like an Angels brightneſs, ſhot through thoſe ſeeming Clouds and almoſt confounded him with Amazement, that nothing before could daunt<g ref="char:punc">▪</g> So near a Kin is Love to Impotency, that it diſarms us of Courage, and enfeebles the ſtrongeſt and moſt daring Reſolution. She took a turn or two in the Walks and when ſhe came near the Arbor, where he was, he ventured out, and, with a low ſubmiſſion, falling at her feet, and (whilſt ſhe ſtood almoſt confounded with Bluſhes and Amazement) thus expreſſed himſelf:</p>
+               <p>
+                  <hi>Pardon me, Divineſt Creature, if I thus preſume to proſtrate my ſelf before you, in hopes, that ſo much Goodneſs can pardon a Crime of a higher Nature, and eſpecially this, ſeeing it is Authoriſed by Love, whoſe commands muſt be obeyed, and whoſe flames are irreſiſtable. O turn not away thoſe dazling Su<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of light th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t gu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de me to my happi<g ref="char:EOLhyphen"/>neſs, but let thoſe Orient Eyes ſhine upon me with beams of Comfort, that I may live by the brightneſs of then Rays, and by the Smiles of my Fair</hi> Hero. He would have proceeded, but <hi>Hero</hi> intreating him to riſe, and <hi>Amoriſſa</hi> adviſing them to go into the Arbor, as well to keep them from the Heat, as from the prying eyes that might be upon them; the two <hi>Lovers</hi> obeyed, being both, without any farther Ceremonies, overjoyed at ſo happy a meeting, though <hi>Hero</hi> diſſembled it as well as ſhe could, telling him, whilſt he gently ſqueezed her fair Hand, which ſhe permitted him to Kiſs, that, ſhe hoped he would not miſconſtrue her Actions, is being ſo forward in granting him Favours ſhe had never yet done to any body, ſince, in gratitude, ſhe could do no leſs, ſeeing he had been her Deliverer, but to grant him Love, which he earneſtly requeſted, ſhe muſt take a longer time to conſider on it, before ſhe abſolutely fixed, or ſettled her Affections; though ſhe moſt confeſs, his Merits required a greater Beauty, and a larger Fortune. <hi>Leander,</hi> hereupon, promiſed to obey her in all things, ſo that (ſhe giving him very large hopes of winning thoſe Affections, which, indeed, ſhe had intirely fixed upon him before) it was agreed, that the next day he ſhould make his publick ap<g ref="char:EOLhyphen"/>pearance at the Caſtle of <hi>Seſtus;</hi> but to be very cautious how he made Love to her in publick, or ſhewed the leaſt ſign of it, till ſhe knew how her Father ſtood in<g ref="char:EOLhyphen"/>clin'd to favour him, for, tho' ſhe loved <hi>Leander</hi> entirely, yet ſhe much relyed upon her Obedience to her Parents, which proved very Tragical as will in the end appear.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="17" facs="tcp:58040:9"/>
+               <head>
+                  <hi>CHAP. VI. Leander's</hi> Fatal Dream, and the Treachery of the Prince of <hi>Perſopolis,</hi> to oppoſe his love. <hi>Heros</hi> Father entertains him with Joy, yet denys his Conſent, in favour of the Prince of <hi>Perſopolis,</hi> and other Rare Adventures.</head>
+               <p>THE beſt and conſtant of lovers having had this Mutual Satisfaction of an En<g ref="char:EOLhyphen"/>terview, and, in their hearts, inſeperably linked by the Chains of love. <hi>Hero</hi> and <hi>Amoriſſa</hi> retired, and <hi>Leander</hi> reſolved to take up his Abode, ſeeing the Sun was near ſet, in that Lodge, till the next morning, when after many thoughts coming in his head, he fell aſleep, and fancied he had fair <hi>Hero</hi> in his Arms, dancing on the Waves, and riding Triumphant in <hi>Neptune</hi>'s Chariot, as if commanding the Seas, till <hi>Aeolus,</hi> the god of the Wind, conſpired, with all his force, to raiſe a mighty and prodigious Storm, which ov<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r-ſet his Shell Triumphant; whereat, for fear of loſing <hi>Hero,</hi> who ſeemed to rool (with him) on the watery Surges; he ſtarted, and awoke, much troubled at ſuch an unuſual Dream; but concluding it only the fancy of the night, and of his extraordinary <hi>Love,</hi> he huſhed thoſe Cares, and ſet his mind intent how to diſpoſe himſelf the next day; he had forgotten to tell <hi>Hero</hi> how he had been ſet upon by <hi>Altem<gap reason="illegible" resp="#OXF" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </hi> Treachery, and knew he would not only oppoſe him in his love, but make <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> practiſes upon him, wherefore he found it was convenient to be warey.</p>
+               <figure>
+                  <p>Sinon.</p>
+                  <p>Therſites.</p>
+                  <p>Pyrhus.</p>
+                  <figDesc>Synon and Thersites converse outside the walls of Troy as Greek soldiers, led by Pyrrhus (also known as Neoptolemus) exit the Trojan horse.</figDesc>
+               </figure>
+               <pb n="19" facs="tcp:58040:10"/>
+               <p>
+                  <hi>Leander</hi> thought now was his time in this height of Carreſſes, ſaid: <hi>Sir, for all the Favours you have done me, and for the Offers you have made me, I return you my moſt humble thanks; there is but one thing in the World I deſire of you, and if I could but think you would grant me that, I would freely demand it.</hi>
+               </p>
+               <figure>
+                  <figDesc>depiction of Leander wooing Hero in a garden, overlooked by Cupid.</figDesc>
+               </figure>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> How Prince <hi>Altemanſor</hi> ſuborned one to Poyſon <hi>Leander,</hi> and how he was prevented, and how, coming to aſſaſſinate him, he ſlew him and his company, upon which he was forc<g ref="char:EOLhyphen"/>ed to ſwim the <hi>Helleſpont,</hi> whilſt <hi>Hero</hi> was confined to a Tower, whither, guided by her light, he often viſited her by night, and attempting to fetch her away, was drownded, whereupon ſhe leaped into the Sea.</head>
+               <p>BY this time the News of <hi>Leander</hi>'s coming to Court, being known to <hi>Altemanſor,</hi> the Perſon that had eſcaped, having told him it was the ſame that overthrew him at Turnament, and had deſtroyed his men in the Wood, he, was greatly en<g ref="char:EOLhyphen"/>raged, but when he had ſecret notice he pretended to Love his Miſtreſs, he imputed all the Rigorous uſage of <hi>Hero</hi> towards him, ariſing from the love ſhe had to this new-come Stranger, &amp; therefore; ſeeing open force had failed, he reſolved that ſecret Miſchief ſhould take place, and ſo with a great ſum of Gold, hired one of <hi>Leanders</hi> Servants, (that he had newly hire'd) to poyſon him with a glaſs of Wine, but as ſoon as he was putting it towards his lips it flew to pieces, whereat the Wretch ſeeing his Treachery diſcovered, fell on his knees, bagging pardon, and diſcloſed the whole matter, upon which this and the former Treachery was publiſhed to the Diſgrace and Anger of <hi>Altemanſor. Hero's</hi> Father was much diſpleaſed with this, and ſent ſharply to reprove him, which made him rage the more, and vow revenge, yet, knowing <hi>Leander</hi> to be a Prince of great Courage, and having ſuffi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ently tryed his ſtrength, he durſt not challenge him to the Combate, but though if he could any ways deſtroy him, it would open his way to <hi>Hero's</hi> love, wherefore one night he broke into his Lodging with about twenty men, which creating ſome noiſe, <hi>Lean<g ref="char:EOLhyphen"/>der,</hi> who had not time to put on his Cloaths, got his Sword, and defended himſelf ſo well, that he killed the Prince and moſt of his Followers, which ſo Alarmed the Caſtle, that all were up in Arms, when <hi>Leander</hi> fearing to be oppreſſed, or that revenge would be taken for this proud Prince, made his retreat good, with the Slaughter of his Enemies, and getting to a Window, that jutted into the Sea, leap<g ref="char:EOLhyphen"/>ed into the Waves, and directing his Courſe by the Stars, ſwam with full revenge to the Shoar of <hi>Grecia,</hi> and ſafely arrived at <hi>Abidas,</hi> he thought for theſe many
+<pb n="21" facs="tcp:58040:11"/>Treacheries to have brought over a powerful Army, and have ſpoiled <hi>Perſorolis,</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſecreſy of his love, and deſire not more to offend <hi>Hero</hi>'s father, who was <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ady outragious for the Death of <hi>Altemanſor,</hi> he deſiſted that reſolve, he ſent a <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ty Servant to hear how things were reſented, who told him at his return, that fair Miſtreſs was confined, by her Father, to a little Tower that jutted into the from the Caſtle, and there mourned her Captivity, and his Abſence.</p>
+               <p>
+                  <hi>Leander</hi> at this was altogether impatient, and reſolved, at any terms, to free <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> whereupon he got two of his truſty Servants to row him over in a l<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>le B<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at
+<figure>
+                     <figDesc>depiction of a lady and gentleman looking over a body of water, where boats are being rowed cities on either bank.</figDesc>
+                  </figure>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e right time, and being furniſht with a ladder of rope, come ſafe under the win<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, &amp; calling with a low voice <hi>Amoriſſa</hi> who waited upon her Miſtreſs ſoon heard <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd by his Direction, let down a line of thread, and drawing up the ladder, <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed it to the beam of the Window, mounted by it. <hi>Hero</hi> who was bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> juſt a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e, trembled to ſee him there, by reaſon her Father had promiſed, if <hi>Leander</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ll be taken, to D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liver him up to <hi>Altemanſors</hi> Brother, to be puniſht, who was <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>el and as blood thirſty as the other had been, ſo that, after many kiſſes, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> embraces, <hi>Leander,</hi> in a paſſionate manner, endeavoured to perſwade <hi>Hero</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> make her eſcape, with him, to <hi>Abidos;</hi> but ſhe reſiſted it, ſo that, in t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nner, by ſtealth, as it were, he came often to viſit her; ſhe ſetting up, in the
+<pb n="22" facs="tcp:58040:12"/>dark of Night, a Torch Light, in the Window, to giuid him to the Tower, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he heard the killing News, that her Father had deſigned to Marry her, with<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> three days, though ſhe had oppoſed it with her tears and prayers, to <hi>Babaz<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Brother to <hi>Altemanſor,</hi> to prevent a War, and to Atone for his Brothers Deat<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> This fatal Decree poſſeſſed <hi>Leander</hi> with Mortal Fears, ſo that ſhe, ſeeing no hop<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but either to deſtroy herſelf, or be forced into the Arms of a man ſhe hated, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Leander</hi>'s proffered Aid in caſe of VVar, would not be accepted by her Father, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conſented the next night he ſhould come with a ſmall Ship to go fetch her and <hi>Am<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>riſſa,</hi> with all her Jewels and Treaſure, into <hi>Greece.</hi> The over-joyed <hi>Leander</hi> we<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> back to prepare a veſſel, which he ſoon did, and cauſed it to be drawn in betwe<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> two Rocks, leſt his purpoſe might be diſcovered to the other ſhore, 'till it w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Evening, when himſelf being weary, and lying down to ſlumber, he was ſuddai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y awaked by a Melodious Song, ſung by two Maremaids, who appeared danci<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> on the VVaves.</p>
+               <lg>
+                  <head>SONG.</head>
+                  <l>Awake, <hi>Leander,</hi> ſee the Skys</l>
+                  <l>Do in Blackeſt Tempeſts riſe:</l>
+                  <l>in <hi>Neptune's</hi> Watery Kingdom, ſee,</l>
+                  <l>
+                     <hi>Two</hi> Lovers ſhall Entombed be;</l>
+                  <l>Whoſe hard Miſhap, the Sea Gods all,</l>
+                  <l>With us, lament their Funeral:</l>
+                  <l>The Cruel Ghoſts Revenge do crave,</l>
+                  <l>And Fate Decrees them to their Grave.</l>
+               </lg>
+               <lg>
+                  <l>We pitty Lovers that are croſt,</l>
+                  <l>And in their higheſt Hopes ſo loſt;</l>
+                  <l>When neareſt to their Joys they ſeem,</l>
+                  <l>And find all but a Golden Dream.</l>
+                  <l>Then do Croſs Winds bear away</l>
+                  <l>Their hopes; <hi>Leander,</hi> prithee ſay:</l>
+                  <l>But the too forward Fates drive on,</l>
+                  <l>By Love, the beſt of Lovers are undone.</l>
+               </lg>
+               <pb n="23" facs="tcp:58040:12"/>
+               <p>
+                  <hi>Leander</hi> hearing this, as it were, between ſleep and wake, much admir'd it, and <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>und a little trouble and heavineſs in his mind, however, he reſolved to keep his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord at any rate, but, about Sun-ſet, a mighty Tempeſt aroſe, the Sea ſwelled <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Terror, all ſeemed a ſuddain midnight, when as, going towards the Veſſel, he <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erceived it had broke its Cable, and had driven out to Sea, with thoſe men that
+<figure>
+                     <figDesc>depiction of a ship breaking up against a cliff, under a tower, as sailors try to escape the stormy sea.</figDesc>
+                  </figure>
+were on Board it, he hailed them as loud as he could, but they ſtood away be<g ref="char:EOLhyphen"/>fore the VVind, and could not get back; then he run about the Shore to ſeek ano<g ref="char:EOLhyphen"/>ther Veſſel but could find none, ſo that ſeeing the light in <hi>Hero</hi>'s Tower, by which he knew ſhe expected him, he reſolved to run any hazard than break his word and ſo ſtripping himſelf to his ſhirt; and hiding his Cloaths in the Rock, he leaped <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to the ſwelling Main, in hopes to overtake the Veſſel, or find it at the place ap<g ref="char:EOLhyphen"/>pointed,
+<pb n="24" facs="tcp:58040:13"/>and ſo floated on the VVaves, till he was half Sea over, when, as if the Elements had conſpired his ruin, Rain, Thunder, Lightning and Wind bandyed him from wave to wave, calling to Heaven, and on fair <hi>Heros</hi> name, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> daſhing among the Rocks on the other ſide, he loſt his Noble Life, and <hi>He<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> who had impatiently expected him all that night with greedy eyes, looked o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> trembling in the morning, and there by the too Cruel Fate of the Ridged De<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nies, ſhe beheld his body, floating on the waves, at this ſhe cryed out in a lament<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ble ſort, and calling upon his Name, leaped out at the window before her Nur<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> could prevent her, periſhed in the Waves, which after they were dead, drove the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on Shore, folded Arm in Arm, which ſad Trajedy being known, they were pit<g ref="char:EOLunhyphen"/>ty'd by all, as the great Examples of Love and Conſtancy, and Buried in on<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Grave. <hi>Heros</hi> Father ſoon after Dying for Grief, in conſideration of the Cruelt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he had uſed towards theſe LOVERS.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license_to_print">
+            <p>Licenſed according to Order.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>BOOKS Printed for <hi>Joſ. Blare</hi> Bookſeller at the Looking-Glaſs on <hi>London-bridge</hi>
+            </p>
+            <list>
+               <item>THe <hi>Engliſh</hi> Fortune-Teller.</item>
+               <item>The Famous Hiſtory of, the Knight of the <hi>Burning-ſword.</hi>
+               </item>
+               <item>The Hiſtory of <hi>Pariſmus</hi> and <hi>Pariſmanus</hi>
+               </item>
+               <item>
+                  <hi>Ayrſt's</hi> Arithmetick.</item>
+               <item>The Compleat <hi>Engliſh</hi> Scretary and neweſt Accademy of Complements.</item>
+               <item>
+                  <hi>Ruſſell's</hi> Seven Sermons.</item>
+               <item>
+                  <hi>Ruſſell's</hi> Companion for Children &amp; Youth, or a little Book for Children.</item>
+               <item>The Accompliſhed Ladys Rich Cloſet of Ra<g ref="char:EOLhyphen"/>rities, or the Ingenious Gentlewoman, &amp; Servant maids Delightful Companion.</item>
+               <item>The Famous Hiſtory of the Gentle-Craft.</item>
+            </list>
+            <p>At the Place above mentioned, Country Chapmen are Furniſhed with all ſorts of BOOKS, Bound or Stitch'd, ſmall BOOKS and BALLADS.</p>
+            <pb facs="tcp:58040:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
